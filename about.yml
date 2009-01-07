@@ -1,5 +1,5 @@
-author: simon@redhillconsulting.com.au
-summary: Ensures that any action executed within a POST, PUT or DELETE request is wrapped in a transaction.
-homepage: http://www.redhillonrails.org
+author: simon.harris@redhillconsulting.com.au
+summary: Ensure that any Ruby on Rails controller action executed within a POST, PUT or DELETE request is wrapped in a transaction.
+homepage: http://github.com/harukizaemon/restful_transactions
 license: MIT
-rails_version: EDGE
+rails_version: 2.2

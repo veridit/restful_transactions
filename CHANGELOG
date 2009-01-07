@@ -1,11 +1,15 @@
-[REVISION 20080227]
+== 2.0.0 released 2009-01-07
 
-[CHANGED] Ensure the filter goes to the start of the queue.
+* Updated to Rails 2.2.2.
 
-[REVISION 20080227]
+== 2008-02-27
 
-[CHANGED] Wrap any any action executed within a POST, PUT or DELETE request rather than just create, update and delete actions. This is _actual_ RESTful.
+* Ensure the filter goes to the start of the queue.
 
-[REVISION 20080113]
+== 2008-02-27
 
-[NEW] Initial version.
+* Wrap any any action executed within a POST, PUT or DELETE request rather than just create, update and delete actions. This is _actually_ RESTful.
+
+== 2008-01-13
+
+* Initial version.
