@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.date     = "2009-01-07"
   s.summary  = "Ensure that any Ruby on Rails controller action executed within a POST, PUT or DELETE request is wrapped in a transaction."
   s.email    = "simon.harris@redhillconsulting.com.au"
-  s.homepage = "http://github.com/harukizaemon/stripper"
+  s.homepage = "http://github.com/harukizaemon/restful_transactions"
   s.description = "Restful Transactions is a Ruby on Rails plugin that wraps any controller action executed within a POST, PUT or DELETE request in a transaction."
   s.has_rdoc = true
   s.authors  = ["Simon Harris"]
