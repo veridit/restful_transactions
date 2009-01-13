@@ -1,4 +1,4 @@
-module RedHillConsulting::RestfulTransactions::ActionController
+module HarukiZaemon::RestfulTransactions::ActionController
   module Base
     def self.included(base)
       base.prepend_around_filter(TransactionFilter)

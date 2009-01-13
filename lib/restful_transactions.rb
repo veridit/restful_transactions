@@ -1,1 +1,1 @@
-ActionController::Base.send(:include, RedHillConsulting::RestfulTransactions::ActionController::Base)
+ActionController::Base.send(:include, HarukiZaemon::RestfulTransactions::ActionController::Base)
