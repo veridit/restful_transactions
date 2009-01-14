@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name     = "restful_transactions"
-  s.version  = "2.0.1"
+  s.version  = "2.0.2"
   s.date     = "2009-01-14"
   s.summary  = "Ensure that any Ruby on Rails controller action executed within a POST, PUT or DELETE request is wrapped in a transaction."
   s.email    = "haruki.zaemon@gmail.com"
